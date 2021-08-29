@@ -1,0 +1,34 @@
+lvl 3
+!gil <user>
+!admin payout <amount>
+!admin interval <interval>
+!admin addmod <user>
+!admin addsuper <user>
+!admin demote <user>
+!admin setlevel <user> <level>
+!admin greeting <on/off/set> <message>
+!admin <addsub/removesub> <user>
+
+lvl 2
+!gil add <amount> <user/all>
+!gil remove <amount> <user/all>
+
+lvl 1
+!raffle open <cost> <max>
+!raffle close
+!raffle draw
+!raffle cancel
+!top5
+!gamble open <maxbet> <names, names, names>
+!gamble close
+!gamble winner <number of winner>
+!gamble cancel
+
+lvl 0
+!raffle help
+!ticket <number>
+!tickets <number>
+!gil
+!bet <number of winner>
+!bet help
+!bet
